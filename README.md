@@ -10,7 +10,7 @@ This repository contains a collection of educational articles and practical reso
 - **Comprehensive Guide on Cross-Site Scripting (XSS)**  
   A detailed overview of XSS, types of XSS attacks, and exploitation techniques.
 
-- **Understanding the CSRF Vulnerability (A Developer’s Perspective)**  
+- **Understanding the CSRF Vulnerability (A Developer’s Perspective)**  l
   Breaks down how CSRF attacks occur, their impact, and secure coding practices to defend against them.
 
 - **Command Injection (DVWA Series)**  
